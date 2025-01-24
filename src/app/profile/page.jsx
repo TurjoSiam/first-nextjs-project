@@ -1,9 +1,7 @@
-
-
 const Profile = () => {
     return (
         <div>
-            <h2>this is profile page</h2>
+            <h2>Welcome to your profile!</h2>
         </div>
     );
 };
